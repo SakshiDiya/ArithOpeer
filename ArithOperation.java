@@ -67,6 +67,8 @@ public class ArithOperation{
 		break;
 	}
 	sc.close(); 
+
+	System.out.println("hELOO");
 	}
 	
 }
